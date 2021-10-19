@@ -3,7 +3,7 @@ title: "Neural adaptive synchronization control of chaotic FitzHugh-Nagumo neuro
 collection: publications
 permalink: /publication/Neural-adaptive-synchronization-control-of-chaotic-FitzHugh-Nagumo-neurons-in-the-external-electrical-stimulation
 excerpt: 'This paper presents a neural adaptive control strategy for the chaotic synchronization of two electrically coupled FitzHugh-Nagumo (FHN) neurons in the external electrical stimulation. '
-date: 2019-07
+date: 2019-10-17
 venue: '2019 Chinese Control Conference (CCC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8865984?casa_token=hzZ92QQBDcwAAAAA:k7ysxq0GHFz0SdfB4UqlMgC7DPMeNWShbshhNLynibkpkfgu2u2sLsGckIW3wxEuRoNpjIraGdU'
 citation: 'Meng, Z., Xia, Z., Yu, H., Wang, J. and Liu, C., 2019, July. Neural adaptive synchronization control of chaotic FitzHugh-Nagumo neurons in the external electrical stimulation. In 2019 Chinese Control Conference (CCC) (pp. 2731-2736). IEEE.'
