@@ -17,33 +17,30 @@ Education
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
+  * Tianjin University
   * Duties included: Tagging issues
   * Supervisor: Professor Haitao Yu
 
 * Fall 2015: Graduate Research Assistant
   * New York University University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Zhongping Jiang
 
 * Fall 2015: Software Engineer Intern
   * Oracle Corporation
   * Duties included: Merging pull requests
-  * Supervisor: Ethan 
 
 * Fall 2015: Data Scientist
   * Oracle Corporatio
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Tensorflow
+* Pytorch
+* Docker
+* Java
 
 Publications
 ======
