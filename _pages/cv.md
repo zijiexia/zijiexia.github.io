@@ -60,7 +60,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+   -->
+Service
 ======
-* Currently signed in to 43 different slack teams -->
+* Teaching assistant for NYU ECE-UY 3064, Feedback Control, Spring 2019
