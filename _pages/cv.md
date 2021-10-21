@@ -38,8 +38,8 @@ Skills
 ======
 * Python
 * Tensorflow
-* Pytorch
 * Docker
+* Kubernetes
 * Java
 * C/C++
 

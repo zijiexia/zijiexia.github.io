@@ -2,7 +2,7 @@
 title: "Self-driving Car"
 excerpt: "Short description of Self-driving Car<br/><img src='/images/self_driving_car.jpg'>"
 permalink: /projects/projects-1
-collection: projects
+collection: publications
 ---
 
 # Self-driving car with lane keeping
