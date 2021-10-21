@@ -1,6 +1,7 @@
 ---
 title: "Safety Assessment on Connected and Autonomous Vehicles"
 excerpt: "Short description of Self-driving Car<br/><img src='/images/sumo.jpg'>"
+permalink: /projects/projects-2
 collection: projects
 ---
 
