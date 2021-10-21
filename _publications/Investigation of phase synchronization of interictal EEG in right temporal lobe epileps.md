@@ -5,8 +5,8 @@ permalink: /publication/Investigation of phase synchronization of interictal EEG
 excerpt: ''
 date: 2018-02-15
 venue: 'Physica A: Statistical Mechanics and its Applications'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0378437117310956?casa_token=iR-sVbDD484AAAAA:Zx6IVLwqgfhzafy5fjqnJt-lVe3XShZ4OfEhh84Q1ihr6gYNVtdx--nXHtynMRmDK3kj7zAi'
-citation: 'Yu, H., Cai, L., Wu, X., Song, Z., Wang, J., Xia, Z., Liu, J. and Cao, Y., 2018. Investigation of phase synchronization of interictal EEG in right temporal lobe epilepsy. Physica A: Statistical Mechanics and its Applications, 492, pp.931-940.'
+# paperurl: 'https://www.sciencedirect.com/science/article/pii/S0378437117310956?casa_token=iR-sVbDD484AAAAA:Zx6IVLwqgfhzafy5fjqnJt-lVe3XShZ4OfEhh84Q1ihr6gYNVtdx--nXHtynMRmDK3kj7zAi'
+# citation: 'Yu, H., Cai, L., Wu, X., Song, Z., Wang, J., Xia, Z., Liu, J. and Cao, Y., 2018. Investigation of phase synchronization of interictal EEG in right temporal lobe epilepsy. Physica A: Statistical Mechanics and its Applications, 492, pp.931-940.'
 ---
 Highlights
 
