@@ -41,6 +41,7 @@ Skills
 * Pytorch
 * Docker
 * Java
+* C/C++
 
 Publications
 ======
